@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="674" started-at="2020-05-04T13:17:38Z" finished-at="2020-05-04T13:17:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="674" started-at="2020-05-04T13:17:38Z" finished-at="2020-05-04T13:17:39Z">
+      <class name="SearchTestCases.TestAutosugestion">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SearchTestCases.TestAutosugestion@76ae34]" name="beforeMethod" is-config="true" duration-ms="653" started-at="2020-05-04T18:47:38Z" finished-at="2020-05-04T18:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyAutosugesstionResult()[pri:0, instance:SearchTestCases.TestAutosugestion@76ae34]" name="VerifyAutosugesstionResult" duration-ms="5" started-at="2020-05-04T18:47:39Z" finished-at="2020-05-04T18:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAutosugesstionResult -->
+      </class> <!-- SearchTestCases.TestAutosugestion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
