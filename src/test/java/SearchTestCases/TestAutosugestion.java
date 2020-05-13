@@ -18,7 +18,7 @@ public class TestAutosugestion {
 	
   @Test
   public void VerifyAutosugesstionResult() throws IOException {
-		
+		System.out.println("In Test");
         
   }
   @BeforeMethod
